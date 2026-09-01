@@ -1,6 +1,6 @@
 import './style.css'
 
-const appUrl = import.meta.env.VITE_APP_URL || '#app'
+const appUrl = import.meta.env.VITE_APP_URL || 'https://kiss-pied.vercel.app'
 
 document.querySelector('#app').innerHTML = `
   <header class="hero">
