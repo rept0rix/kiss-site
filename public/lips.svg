@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" role="img" aria-label="KISS lips">
+  <rect width="512" height="512" fill="#000"/>
+  <path fill="#E10600" d="M56 256c48-72 112-112 200-112s152 40 200 112c-48 72-112 112-200 112S104 328 56 256z"/>
+  <path fill="none" stroke="#000" stroke-width="28" stroke-linecap="round" d="M100 256c40-18 80-28 156-28s116 10 156 28"/>
+</svg>
